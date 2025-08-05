@@ -1,0 +1,4 @@
+[core]
+    remote = localstore
+['remote "localstore"']
+    url = /home/jay/workspace/hackathon-dvc/dvc-storage
